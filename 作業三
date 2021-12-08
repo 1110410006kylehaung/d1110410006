@@ -1,0 +1,2 @@
+print("Hello, " + 使用者輸入的內容)
+-> print("Hello, " + input())
